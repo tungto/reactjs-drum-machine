@@ -1,0 +1,15 @@
+.display-container {
+  align-items: center;
+  text-align: center;
+}
+.display {
+  margin: 20px 5px;
+}
+.display span {
+  background-color: rgb(180, 63, 63);
+  color: white;
+  border: 1px solid rgb(231, 210, 210);
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
